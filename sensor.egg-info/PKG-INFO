@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: sensor
+Version: 0.0.1
+Author: Ashutosh
+Author-email: ashutoshmaurya063@gmail.com
+Requires-Dist: pymongo==4.2.0
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: xgboost
+Requires-Dist: catboost
